@@ -1,5 +1,5 @@
 # The Classification with Machine Learning of User ApplicationActivity on Network Traffic
-**Collaborators:** Elif  Yener, İrem Aysel İpek, Muhammet Ali Karagüzel
+**Collaborators:** Elif  Yener **|** İrem Aysel İpek **|** Muhammet Ali Karagüzel
 
 In this study, machine learning techniques have been applied to classify network traffic using network flow features and application tags. The classification techniques are a data mining technique for using an estimate that the data belong to which category.  In this study, the assignment of packets in the network flow traffic of a tagged data set to predetermined application groups is provided by classification algorithms.
 
