@@ -6,6 +6,7 @@ In this study, machine learning techniques have been applied to classify network
 The supervised classification algorithms to used in this study are **_k-Nearest Neighbor, Decision Tree, Random Forest, Gaussian Naive Bayes, Support Vector Machine, and Logistic Regression_**. The strengthening algorithm we use is **_XGBoost_**.
 
 Weka software, which is a data mining application, was used to balance the flow sample inequality between the results obtained from the unbalanced data and the applications. Applications with a high ratio have been reduced. The lower ones have synthetically enhanced thanks to the Synthetic Minority Over-sampling(SMOTE) filter.
+
 ![](img/balancedData.png) 
 ![](img/unbalancedData.png)
 
